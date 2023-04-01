@@ -1,0 +1,51 @@
+# NBA ALL-STAR GAME
+
+## Participation
+
+(a) Any player selected (by any method designated by the NBA) to play in an All-Star Game shall be required to:
+    (i) attend and participate in such Game;
+    (ii) attend and participate in one (1) All-Star Skills Competition (but not including the Slam Dunk Competition) that is conducted during the All-Star Weekend on which such Game is held; and
+    (iii) attend and participate in every other event conducted in association with such All-Star Weekend, including, but not limited to, a reasonable number of media sessions, television appearances, and promotional appearances.
+(b) Any player selected (by any method designated by the NBA) to play in a Rookie-Sophomore Game shall be required to:
+    (i) attend and participate in such Game;
+    (ii) attend and participate in any All-Star Skills Competition designated by the NBA that is conducted during the All-Star Weekend on which such Game is held; and
+    (iii) attend and participate in every other event conducted in association with such All-Star Weekend, including, but not limited to, a reasonable number of media sessions, television appearances, and promotional appearances.
+(c) Any player who, at the request of the NBA, voluntarily agrees to participate in an All-Star Skills Competition shall be required to attend and participate in such Skills Competition.
+(d) Nothing in this Article XXI shall preclude a player who is an officer or a representative of the Players Association from attending the Players Association's annual meeting during All-Star Weekend or preclude any player from attending the Players Association's All-Star party.
+(e) Notwithstanding anything to the contrary in Section 1(a), (b) or (c) above, a player will not be required to participate in a particular All-Star Game, Rookie-Sophomore Game, or All-Star Skills Competition if he has been excused from participation in the particular event by the Commissioner because (i) he has an injury or illness that renders him physically unable to participate in such Game or Skills Competition, or (ii) for such other reason as the Commissioner may determine in his sole discretion. If the player asserts that he should be excused from participation in a particular All-Star game or event under Section 1(e)(i) above, the Commissioner shall be authorized to require the player to submit to a medical examination to be performed by a physician designated by the NBA, and the determination of whether the player has satisfied Section 1(e)(i) shall be made by such physician in his sole discretion. In the event that a player is excused from participation in an All-Star game or event under Section 1(e)(i)above, he shall thereafter remain on his Team's Inactive List until he is cleared to return to the Active List by the NBA.
+
+## Awards.
+
+(a) For their participation in an All-Star Game, players on the winning team shall each receive \$35,000 and players on the losing team shall each receive \$15,000.
+(b) For their participation in a Rookie-Sophomore Game, players on the winning team shall each receive \$15,000 and players on the losing team shall each receive \$5,000.
+(c) For their participation in an All-Star Skills Competition, players shall receive the following amounts:
+
+| Slam Dunk  |           | Three-Point Shootout |           |
+| :--------- | :-------: | :------------------- | :-------: |
+| 1st Place: | \$35,000  | 1st Place:           | \$35,000  |
+| 2nd Place: | \$22,500  | 2nd Place:           | \$22,500  |
+| 3rd Place: | \$16,125  | 3rd Place:           | \$15,000  |
+| 4th Place: | \$16,125  | 4th Place:           | \$4,500   |
+|            |           | 5th Place:           | \$4,500   |
+|            |           | 6th Place:           | \$4,500   |
+
+
+| Skills     |           | Shooting Stars       |           |
+| :--------- | :-------: | :------------------- | :-------: |
+| 1st Place: | \$35,000  | Winning Team:        | \$45,000  |
+| 2nd Place: | \$22,500  | 2nd Place Team:      | \$33,750  |
+| 3rd Place: | \$9,000   | 3rd Place Team:      | \$16,875  |
+| 4th Place: | \$9,000   | 4th Place Team:      | \$16,875  |
+
+
+## Player Guests.
+
+Each player who participates in the All-Star Game, Rookie-Sophomore Game, or any All-Star Skills Competition may invite two (2) guests, who shall be reimbursed for the cost of round-trip first-class air transportation between the home city of the Team by which such player is employed and the site of the All-Star Game, Rookie-Sophomore Game or All-Star Skills Competition.
+
+## Players Not Participating in All-Star Activities.
+
+Players who do not attend or participate in the All-Star Game, Rookie-Sophomore Game, or an All-Star Skills Competition shall have three (3) days off during the All-Star Weekend break.
+
+## All-Star Skills Competitions.
+
+The All-Star Skills Competitions that take place during any All-Star Weekend shall be selected by the NBA; provided, however, that before adding any new event to the All-Star Skills Competitions that take place during any All-Star Weekend (i.e., an event different from any conducted by the NBA during any All-Star Weekend held prior to the 2005-06 Season), the NBA shall obtain the consent of the Players Association, which consent shall not be unreasonably withheld.

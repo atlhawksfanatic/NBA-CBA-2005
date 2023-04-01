@@ -1,0 +1,16 @@
+# PROHIBITION OF NO-TRADE CONTRACTS
+
+## General Limitation.
+
+No Player Contract may contain any prohibition or limitation of an NBA Team's right to assign such Contract to another NBA Team.
+
+## Exceptions to General Limitation.
+
+Notwithstanding the provisions of Section 1 of this Article XXIV:
+
+(a) A Player Contract may contain (in Exhibit 4 to such Player Contract) a provision entitling a Player to earn Compensation if the player's Uniform Player Contract is traded ("trade bonus") subject to the following:
+    (i) A trade bonus shall be payable only the first time that the Contract is traded (and not as a result of any subsequent trade); provided, however, that if a Contract is signed in connection with an agreement to trade the Contract in accordance with Article VII, Section 8(e) and the Contract contains a trade bonus, the bonus shall not apply to such initial trade but shall instead be payable only if the Contract is traded a second time (and not as a result of any subsequent trade).
+    (ii) A trade bonus shall not exceed 15\% of the Base Compensation remaining to be earned by the player pursuant to the Contract at the time of the trade (excluding an Option Year if not yet exercised).
+    (iii) The only allowable amendment to Exhibit 4 to a Uniform Player Contract shall be the specification of the amount of the trade bonus to be paid to the player, expressed as either (A) a specified percentage of the Base Compensation remaining to be earned under the Contract at the time of the trade (excluding an Option Year if not yet exercised), or (B) a specified dollar amount not to exceed a specified percentage of Base Compensation remaining to be earned under the Contract at the time of the trade (excluding an Option Year if not yet exercised).
+    (iv) A Contract that does not contain a trade bonus when signed cannot be amended to add one, except that: (A) if the Contract is extended (other than pursuant to an agreement to trade the extended Contract in accordance with Article VII, Section 8(e)), the Contract may be amended simultaneously to provide for a trade bonus that will be payable only the first time that the Contract is traded following the signing of the Extension (and not as a result of any subsequent trade) and (B) if the Contract is extended pursuant to an agreement to trade the extended Contract in accordance with Article VII, Section 8(e), the Contract may be amended simultaneously to provide for a trade bonus that shall not apply to such initial trade but shall instead be payable only if the extended Contract is traded a second time (and not as a result of a subsequent trade).
+(b) A Player Contract entered into by a player who has eight (8) or more Years of Service in the NBA and who has rendered four (4) or more Years of Service for the Team entering into such Contract may contain a prohibition or limitation of such Team's right to trade such Contract to another NBA Team.
