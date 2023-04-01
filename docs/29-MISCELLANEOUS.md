@@ -1,0 +1,66 @@
+# MISCELLANEOUS
+
+## Active Roster Size.
+
+Each Team agrees to have twelve (12) players on its Active List and to have a minimum of eight (8) players on the bench for all Regular Season games. Notwithstanding the foregoing, any Team may from time to time as appropriate, but for no more than two (2) consecutive weeks at a time during the Regular Season, have eleven (11) players on its Active List.
+
+## Inactive Roster Size.
+
+Each Team agrees to have one (1) player on its Inactive List for all Regular Season games. Notwithstanding the foregoing, any Team may from time to time as appropriate, but for no more than two (2) consecutive weeks at any time during the Regular Season, have no players on its Inactive List.
+
+## Minimum League-Wide Roster.
+
+(a) For each Regular Season covered by this Agreement, NBA Teams shall, in the aggregate, employ an average of no less than fourteen (14) players per Team.
+(b) The NBA's satisfaction (or not) of Section 3(a) above shall be measured following each Regular Season as follows:
+
+    STEP 1: For each player signed to a Player Contract (including a Rest-of-Season or 10-Day Contract) during a Regular Season, determine the number of days during such Regular Season that such player was carried on his Team's Active List or Inactive List (hereinafter "Duty Days").
+    
+    STEP 2: Determine the total Duty Days for all players for such Regular Season by adding together the results for each player from Step 1.
+    
+    STEP 3: Multiply (x) the number of NBA Teams that played games during the applicable Regular Season, by (y) 2,300 days.
+    
+    STEP 4: If, for a Regular Season, (x) the result in Step 2 above is equal to or greater than the result in Step 3 above, then the NBA has satisfied its obligation under subsection (a) above for such Regular Season; or (y) the result in Step 2 above is less than the result in Step 3 above (the difference hereinafter described as "the Shortfall"), then the NBA has failed to satisfy its obligation under Section 3(a) above for such Regular Season.
+(c) If the NBA fails to satisfy its obligation under Section 3(a) above for a Regular Season, then it shall be required to make a payment to the Players Association equal to (i) the Shortfall, times (ii) the Minimum Player Salary for a player with one (1) Year of Service divided by the number of calendar days during such Regular Season. Any such payment shall be made to the Players Association by August 1 following the applicable Season, and shall be distributed by the Players Association to all NBA players who were on the Active List or Inactive List of an NBA team during the applicable Regular Season, on such proportional basis as may reasonably be determined by the Players Association.
+
+## Playing Rules and Officiating.
+
+(a) One representative of the Players Association shall be permitted to attend the meetings of and have a vote on the NBA Competition Committee with respect to issues relating to the NBA playing rules and officiating.
+(b) The Players Association may on behalf of the players annually submit to the Commissioner one (1) written critique of referees, without reference to any individual referee.
+
+## Playoffs.
+
+(a) The number of Teams participating in the playoffs shall equal sixteen (16). Notwithstanding the foregoing, the NBA shall have the right to increase the number of Teams participating in the playoffs.
+(b) Each round of the playoffs shall be played in a best-of-seven-games format.
+
+## Game Tickets.
+
+(a) In the event that a Team provides home-game tickets to its players, seat locations must be allocated to players based on seniority, with the most senior players (based on years of NBA service) receiving the most favorable seat locations.
+(b) NBA Teams shall provide four (4) tickets to authorized representatives of the Players Association to any home game at box office prices, provided notice of such request is given at least forty-eight (48) hours before the game.
+(c) Each Team agrees to provide retired players with three (3) or more years of NBA service with the opportunity to purchase two (2) tickets at box office prices to its NBA home games, and to hold such tickets for such players, provided tickets are available and the retired players provide the Team with forty-eight (48) hours advance notice of their desire for such tickets.
+
+## Release for Fighting.
+
+Each NBA Team (hereinafter "such Team") hereby releases and waives every claim it may have against any player employed by other NBA Teams for injuries sustained by any player in the employ of such Team which arise out of or in connection with any fighting or other formof violent and/or unsportsmanlike conduct during the course of any Exhibition, Regular Season, and/or Playoff game.
+
+## Limitation on Player Ownership.
+
+During the term of this Agreement, no NBA player may acquire or hold a direct or indirect interest in the ownership of any NBA Team; provided, however, that any player may own shares of any publicly-traded company that directly or indirectly owns an NBA Team.
+
+## Nondisclosure.
+
+The parties agree that (a) the economic terms of any individual Uniform Player Contract entered into by a Team and a player, and (b) any information contained in, or disclosed to the Players Association in connection with an Audit Report, Draft Audit Report, Interim Audit Report, Interim Escrow Audit Report, BRI Report, Escrow Schedule, or Notice to Escrow Agent, shall not be disclosed to the media by (i) the NBA, its Teams, or their respective employees, or (ii) the Players Association, NBA players, or their respective employees, agents, or representatives.
+
+## Implementation of Agreement.
+
+(a) The NBA and the Players Association will use their respective best efforts to have NBA Teams and NBA players comply with the terms and provisions of this Agreement.
+(b) The NBA and the Players Association shall use their respective best efforts and take all reasonable steps to cooperate to defend the enforceability of this Agreement against any challenge thereto.
+
+## Additional Canadian Provisions.
+
+(a) The bases upon which a player may be disciplined or discharged or a Player Contract terminated, as set forth in this Agreement and/or in the Uniform Player Contract, shall constitute just and reasonable cause within the meaning of any applicable Canadian statute (federal or provincial) and, to the extent this Agreement or the Uniform Player Contract provides specific penalties for such conduct, those penalties shall apply.
+(b) During the term of this Agreement, the NBA and Players Association shall consult regularly about issues relating to the workplace which affect the parties or any player bound by this Agreement.
+(c) If and to the extent Sections 48 and 49 of the Ontario Labour Relations Act are or may be found applicable to this Agreement, the parties agree that the provisions thereof shall apply only to disputes between the Toronto Raptors and players for the Toronto Raptors.
+(d) The parties acknowledge and agree that a player employed by an NBA Team pursuant to the provisions of a Uniform Player Contract, a 10-Day Contract, or a Rest-of-Season Contract is and/or shall be deemed to be an "employee hired on the basis that his employment is to terminate on the expiry of a definite term or the completion of a specific task" within the meaning of paragraph 1 of Section 2(1) of Ontario Regulation 288/01 under the Ontario Employment Standards Act, 2000, so as to render inapplicable to NBA players the provisions of Sections 54-62 of such Act.
+(e) The parties acknowledge and agree that the severance benefits provided to players pursuant to this Agreement (including the provisions of Player Contracts that provide, in certain circumstances, for the continued payment of Salary to a player following the termination of a Player Contract) constitute and/or shall be deemed to constitute a settlement binding on the player within the meaning of Section 6 of the Ontario Employment Standards Act, 2000, and/or "an amount paid to an employee for loss of employment under a provision of an employment contract based upon length of employment, length of service or seniority" within the meaning of paragraph 2 of Section 65(8) of the Ontario Employment Standards Act, 2000, so as to render inapplicable to NBA players the provisions of Sections 63-66 of such Act.
+(f) Upon the NBA's request, the Players Association shall cooperate with the NBA in a reasonable manner in connection with any effort the NBA may make to seek an exemption from any Canadian (federal or provincial) law or regulation affecting the employment relationship that is inconsistent with the provisions of this Agreement or any other agreement between the Players Association and the NBA (or NBA Properties) or between any player and any NBA Team.
+(g) All players employed by NBA Teams shall be paid in U.S. dollars, regardless of where such Teams are located.

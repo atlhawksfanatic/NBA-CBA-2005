@@ -1,0 +1,6 @@
+# PLAYER-TEAM COOPERATION
+
+## Player-Team Growth and Development Committee.
+
+(a) A Player-Team Growth and Development Committee (hereinafter "Development Committee") shall be established for the purpose of examining and discussing issues relating to, among other things: (i) the implementation of this Agreement; (ii) the continued enhancement of relations between players and Teams; (iii) the promotion of the NBA, NBA players and Teams, and the game of basketball; and (iv) the future growth and success of the NBA.
+(b) The Development Committee shall consist of eight (8) members: the Commissioner of the NBA and three (3) NBA Team owners; and the Executive Director of the Players Association and three (3) NBA players. The respective owners and players who shall be members of the Development Committee will be selected, and the lengths of their terms fixed, under such rules as the NBA and the Players Association separately establish. The original members of the Committee will be selected within thirty (30) days following the execution of this Agreement. The Development Committee will hold regular face-to-face meetings at least twice each year on dates and at sites mutually agreeable to the Committee members. The meetings may be attended by staff members and advisors of the NBA and the Players Association.
